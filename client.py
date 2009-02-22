@@ -1,7 +1,10 @@
 '''
-Example consumer. This is not recommended for production.
-Instead, you'll want to create your own subclass of OAuthClient
-or find one that works with your web framework.
+Python Oauth client for Twitter
+
+Used the SampleClient from the OAUTH.org example python client as basis.
+
+props to leahculver for making a very hard to use but in the end usable oauth lib.
+
 '''
 import httplib
 import urllib
